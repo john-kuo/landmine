@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://warriorcode.xyz/images/opensource/landmine/landmine_logo.png">
-    <img src="https://warriorcode.xyz/images/opensource/landmine/landmine_logo.png" width="150px" alt="Landmine logo" />
+    <img src="https://warriorcode.xyz/images/opensource/landmine/landmine_logo.png" width="280px" alt="Landmine logo" />
   </a>
 </p>
 
