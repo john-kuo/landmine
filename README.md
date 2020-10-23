@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">A List of Pornography sites</h3>
+<h3 align="center">A List of Pornography sites and Porn suggested words.</h3>
 
 
 The list that powers [Mr.NoFap web](https://chrome.google.com/webstore/detail/mrnofap-block-porn-sites/cpigeaemojebhijbmencldogableknlf?hl=en) porn site blocking application.
@@ -24,6 +24,24 @@ Help us make it more complete. We are looking for the following contribution
 1. Missing porn site in the list?
 2. Porn site that is not running anymore?
 3. Site that is not a porn site?
+4. Missing Words that might suggest porn?
+
+
+- Just do [Pull request]https://github.com//nathan-kuo/landmine/pulls and new missing site or word in either **pornMap** or **bannedWordsList** array
+
+```js
+e.g. for pornMap array format
+
+"xxx.com":!0
+```
+
+```js
+e.g. for bannedWordsList array format
+
+"abused"
+```
+
+
 
 
 
