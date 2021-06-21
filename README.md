@@ -27,19 +27,9 @@ Help us make it more complete. We are looking for the following contribution
 4. Missing Words that might suggest porn?
 
 
-- Just do [Pull request]https://github.com//nathan-kuo/landmine/pulls and new missing site or word in either **pornMap** or **bannedWordsList** array
+- Just do [Pull request]https://github.com//nathan-kuo/landmine/pulls and add new missing site to the list
 
-```js
-e.g. for pornMap array format
 
-"xxx.com":!0
-```
-
-```js
-e.g. for bannedWordsList array format
-
-"abused"
-```
 
 
 
