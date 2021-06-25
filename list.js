@@ -1,5 +1,6 @@
 'sxyprn', 
-'4chan.org/gif', 
+'4chan.org/gif',
+'sex.gifs', 
 '24porn.com', 
 'www.veporno.net', 
 'pornktu.be/videos/', 
